@@ -1,0 +1,4 @@
+[ 2025-03-30 11:39:21,012 ] 26 root - INFO - entered data ingestion
+[ 2025-03-30 11:39:21,012 ] 29 root - INFO - read the data
+[ 2025-03-30 11:39:21,028 ] 36 root - INFO - train test data initialized
+[ 2025-03-30 11:39:21,028 ] 41 root - INFO - ingestion of data complted

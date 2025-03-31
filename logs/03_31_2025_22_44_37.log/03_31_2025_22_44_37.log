@@ -1,0 +1,8 @@
+[ 2025-03-31 22:45:09,120 ] 27 root - INFO - entered data ingestion
+[ 2025-03-31 22:45:09,132 ] 30 root - INFO - read the data
+[ 2025-03-31 22:45:09,162 ] 37 root - INFO - train test data initialized
+[ 2025-03-31 22:45:09,169 ] 42 root - INFO - ingestion of data complted
+[ 2025-03-31 22:45:09,175 ] 65 root - INFO - read of train and test is completed
+[ 2025-03-31 22:45:09,175 ] 66 root - INFO - obtaining pre processor object
+[ 2025-03-31 22:45:09,175 ] 46 root - INFO - numerical columns scaling completed
+[ 2025-03-31 22:45:09,175 ] 47 root - INFO - categorical columns encoding and scaling completed

@@ -1,0 +1,14 @@
+[ 2025-03-31 22:52:30,002 ] 27 root - INFO - entered data ingestion
+[ 2025-03-31 22:52:30,002 ] 30 root - INFO - read the data
+[ 2025-03-31 22:52:30,018 ] 37 root - INFO - train test data initialized
+[ 2025-03-31 22:52:30,018 ] 42 root - INFO - ingestion of data complted
+[ 2025-03-31 22:52:30,034 ] 65 root - INFO - read of train and test is completed
+[ 2025-03-31 22:52:30,034 ] 66 root - INFO - obtaining pre processor object
+[ 2025-03-31 22:52:30,034 ] 46 root - INFO - numerical columns scaling completed
+[ 2025-03-31 22:52:30,034 ] 47 root - INFO - categorical columns encoding and scaling completed
+[ 2025-03-31 22:52:30,037 ] 76 root - INFO - applying transformation on both trai nand test set
+[ 2025-03-31 22:52:30,052 ] 89 root - INFO - saving preprocessing object
+[ 2025-03-31 22:52:30,052 ] 37 root - INFO - initialized arrays in model trainer
+[ 2025-03-31 22:52:30,052 ] 50 root - INFO - initialized models in model trainer
+[ 2025-03-31 22:52:32,544 ] 62 root - INFO - best model name:Ridge, r2 score:0.9849368094327666
+[ 2025-03-31 22:52:32,561 ] 73 root - INFO - saved model
