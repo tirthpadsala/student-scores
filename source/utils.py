@@ -24,3 +24,10 @@ def modelEval(actual, predicted):
     mae = mean_absolute_error(actual,predicted)
     r2 = r2_score(actual,predicted)
     return mse,mae,r2
+
+def loadModel(filePath):
+    try:
+         with open(filePath,'rb') as f:
+             return pickle.load(f)
+    except Exception as e:
+        raise CustomException(e,sys)
